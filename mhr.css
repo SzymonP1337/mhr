@@ -1,0 +1,12 @@
+body {
+
+    background: linear-gradient(90deg, rgb(85, 79, 196) 0%, rgb(37, 203, 184) 35%, rgb(107, 184, 199) 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    size: 50px;
+}
+
+#grad {
+    background-image: linear-gradient(red, yellow, green);
+}
